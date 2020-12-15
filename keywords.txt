@@ -1,0 +1,21 @@
+################################################
+# Syntax Coloring Map For AnimatedTemperatureIcon
+################################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+AnimatedTemperatureIcon	TFT_ANIMATE
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+draw 	KEYWORD2
+drawNumber 	KEYWORD2
+temperature 	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
