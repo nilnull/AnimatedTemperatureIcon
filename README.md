@@ -15,19 +15,21 @@ I just tried TTGO T-Display, you need to change defined sizes for other screen s
 Arduino TFT graphics library 
 
 ## Settings
-///////////////////////////////////////////////////////////////////////SPRITE
-#define TEXT_COLOR TFT_WHITE
-#define BAR_COLOUR 0x4228
-#define BAR_WIDTH 5
-#define BAR_HEIGHT 83
-#define BAR_GAP 7
-#define BAR_CIRCLE_R 9.5
-#define ACCEPTABLE_DIFF 1
-#define SPEED 10
-#define MAX_TEMP 40
-#define MIN_TEMP 2
-#define IMAGE_WIDTH 37
-#define IMAGE_HEIGHT 118
+
+| property            | default value  | description                                                          |
+|---------------------|----------------|----------------------------------------------------------------------|
+| TEXT_COLOR          | TFT_WHITE      | Color of texts                                                       |
+| BAR_COLOUR          | 0x4228         | Color of vertical bar                                                |   
+| BAR_WIDTH           | 5              | Width of vertical bar                                                |
+| BAR_HEIGHT          | 83             | Height of vertical bar                                               |
+| BAR_GAP             | 7              | Gap between vertical bar and top of image                            |
+| BAR_CIRCLE_R        | 9.5            | Radius of circle                                                     |
+| ACCEPTABLE_DIFF     | 1              | if the difference be less than this number it would not change       |
+| SPEED               | 10             | Speed of bar animation                                               |
+| MAX_TEMP            | 40             | Maximum temperature                                                  |
+| MIN_TEMP            | 2              | Minimum temperature                                                  |
+| IMAGE_WIDTH         | 37             | Width of image                                                       |
+| IMAGE_HEIGHT        | 118            | height of image                                                      |
 
 
 ## License
