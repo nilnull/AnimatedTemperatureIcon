@@ -6,15 +6,23 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-AnimatedTemperatureIcon	TFT_ANIMATE
+TemperatureIcon	KEYWORD1
+Buzzer	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
+checkBound
 draw 	KEYWORD2
 drawNumber 	KEYWORD2
 temperature 	KEYWORD2
+checkBound KEYWORD2
+draw KEYWORD2
+drawExactDegree KEYWORD2
+init KEYWORD2
+setTargetValue KEYWORD2
+drawTargetValue KEYWORD2
 
 #######################################
 # Constants (LITERAL1)
