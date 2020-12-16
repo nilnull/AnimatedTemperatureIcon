@@ -1,7 +1,9 @@
+[![Build Status](https://travis-ci.com/nilnull/AnimatedTemperatureIcon.svg?branch=master)](https://travis-ci.com/nilnull/AnimatedTemperatureIcon)
+
 # Animated Temperature Icon
   ``Show temperature like a boss on tft screens``
 
-AnimatedTemperatureIcon is a lightweight library to show temperature with animation on TFT Screens
+AnimatedTemperatureIcon is a lightweight library for arduino to show temperature with animation on TFT Screens
 
 This is what I made for my self for fun and shared in case if anyone wants to use.
 
