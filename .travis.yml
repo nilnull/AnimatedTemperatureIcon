@@ -4,3 +4,4 @@ compiler:
   - g++
 os:
   - linux
+script: cd examples
